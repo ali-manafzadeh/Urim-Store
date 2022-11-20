@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "556424256767",
+    "project_id": "urim-first-store",
+    "storage_bucket": "urim-first-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556424256767:android:bcfcc2248e7c4670a380ca",
+        "android_client_info": {
+          "package_name": "com.example.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556424256767-39oin6p7r2641a3pnjimmpc6ldo1d7pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx8Y6679jDP7P-ICr7-rAnHIgTCXaum98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556424256767-39oin6p7r2641a3pnjimmpc6ldo1d7pm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
